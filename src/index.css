@@ -5,6 +5,7 @@ html, body {
     padding: 0;
     font-family: 'Open Sans' sans-serif;
     background: #0e0e0e0e; 
+    scroll-behavior: smooth;
     сolor: #f3f4f3f4;
 }
 
