@@ -15,10 +15,6 @@ export const Home = () => {
                    className="bg-purple-600 text-white py-3 px-6 rounded font-medium transition relative overflow-hidden hover:-translate-y-0.5 hover:shadow-[0_0_15px_rgba(137, 44, 250, 0.3)]">
                     Пет-проеты
                 </a>
-                <a href="#contacts" 
-                   className="border border-purple-600/60 text-purple-600 py-3 px-6 rounded font-medium transition-all duration-200 hover:-translate-y-0.5 hover:shadow-[0_0_15px_rgba(137, 44, 250, 0.3)] hover:bg-purple-600/10">
-                    Контанты
-                </a>
             </div>
         </div>
     </section>
